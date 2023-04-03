@@ -33,5 +33,10 @@
         "title": "Why this",
         "text": "hello",
         "id": "83de"
+    },
+    {
+        "title": "My new note",
+        "text": "this is my note",
+        "id": "5c26"
     }
 ]
